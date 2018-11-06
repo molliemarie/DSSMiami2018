@@ -15,9 +15,19 @@ You’ll need a CodePen account to participate in the workshop exercises fully. 
 - [Why Do We Visualize?](https://github.com/molliemarie/SharedSlides/blob/master/WhyWeVisualize.pdf)
 - [What is D3.js? / When should I use it?](https://github.com/molliemarie/SharedSlides/blob/master/whatIsD3.pdf)
 
-## Let's get coding!
+## Ok, Let's get coding!
 
-TKTK
+## Exercise: [Make the same bar plot in three different ways!]() TKTK link
+
+In these exercises you will be making the same bar plot in three different ways: 
+
+- Using HTML, CSS, and SVG
+- Using D3.js
+- Using D3 AND data joins
+
+## Exercise: [Building our first scatter plot]() TKTK link
+
+We'll now build our first full chart by plotting one of the Ambscombe data sets in a scatter plot.
 
 ## Further Learnings / Fancy Examples
 Further learnings and fancy examples [located here](d3examples.md).
