@@ -18,7 +18,7 @@ You’ll need a CodePen account to participate in the workshop exercises fully. 
 ## Further Learnings / Fancy Examples
 Further learnings and fancy examples [located here](d3examples.md).
 
-## Ok, Let's get coding!
+# Ok, Let's get coding!
 
 ## Exercise: [Make the same bar plot in three different ways!](barChart3Ways.md)
 
