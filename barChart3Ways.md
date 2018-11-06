@@ -2,7 +2,7 @@
 
 You'll be making the same bar plot in three different ways. Each time, you will end up something that looks like this:
 
-![bar plot](imgs/barplot.png)
+![bar plot](../imgs/barplot.png)
 
 **Note:** Since Mike doesn't [technically](https://bl.ocks.org/mbostock/3885304) make valid HTML pages, we're not going to either.
 
