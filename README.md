@@ -17,7 +17,7 @@ You’ll need a CodePen account to participate in the workshop exercises fully. 
 
 ## Ok, Let's get coding!
 
-## Exercise: [Make the same bar plot in three different ways!]() TKTK link
+## Exercise: [Make the same bar plot in three different ways!](barChart3Ways.md)
 
 In these exercises you will be making the same bar plot in three different ways: 
 
@@ -25,7 +25,7 @@ In these exercises you will be making the same bar plot in three different ways:
 - Using D3.js
 - Using D3 AND data joins
 
-## Exercise: [Building our first scatter plot]() TKTK link
+## Exercise: [Building our first scatter plot](anscombe.md)
 
 We'll now build our first full chart by plotting one of the Ambscombe data sets in a scatter plot.
 
