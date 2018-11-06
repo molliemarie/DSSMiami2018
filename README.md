@@ -8,7 +8,7 @@ Connect with Mollie: [twitter](https://twitter.com/MollzMP) // [email](mailto:mo
 If you haven't yet, join the [DSS Slack](https://join.slack.com/t/datasciencesalon/shared_invite/enQtNDcwNzI4MDY5NTQxLTU3NWQwNTcxOGFhZDliMjg0MGJkNzVlMzk0ZGRhZWM2MWNjMzhiNGMyZjE0N2FhMTgxZmU0NGY2NDY0Mjc1ZWU) and join the **#d3js-data-viz** channel. If useful links surface during the website, they will be posted in this channel.
 
 ## CodePen
-You’ll need a CodePen account to participate in the workshop exercises. You can [get one for free here](http://codepen.io/).
+You’ll need a CodePen account to participate in the workshop exercises fully. You can [get one for free here](http://codepen.io/).
 
 ## Slides
 
