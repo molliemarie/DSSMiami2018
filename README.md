@@ -1,6 +1,6 @@
-# Codeher Conference D3 Workshop
+# Data Science Salon Miami 2018
 
-This repo holds resources from an introductory talk on D3, given by Mollie Pettit, originally at Code(Her) Conference 2017.
+This repo holds resources from an introductory talk / workshop on D3, given by Mollie Pettit, originally at DSS Miami in .
 
 Connect with Mollie: [twitter](https://twitter.com/MollzMP) // [my first name] dot marie at gmail dot com // [linkedin](https://www.linkedin.com/in/molliempettit/)
 
