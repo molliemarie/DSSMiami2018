@@ -2,7 +2,7 @@
 
 This repo holds resources from an introductory talk / workshop on D3, given by Mollie Pettit, originally at DSS Miami in .
 
-Connect with Mollie: [twitter](https://twitter.com/MollzMP) // [email](molliempettit@gmail.com) // [linkedin](https://www.linkedin.com/in/molliempettit/)
+Connect with Mollie: [twitter](https://twitter.com/MollzMP) // [email](mailto:molliempettit@gmail.com) // [linkedin](https://www.linkedin.com/in/molliempettit/)
 
 ## Upcoming Online D3.js Course
 Interested in learning more!? Metis will be offering an online Data Visualization using D3.js course starting November 6th, 2017. [Read more about the course here](online_course.md). And [sign up here](https://www.thisismetis.com/data-visualization-with-d3)!
