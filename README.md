@@ -12,7 +12,8 @@ You’ll need a CodePen account to participate in the workshop exercises. You ca
 
 ## Slides
 
-TKTK
+- [Why Do We Visualize?](https://github.com/molliemarie/SharedSlides/blob/master/WhyWeVisualize.pdf)
+- [What is D3.js? / When should I use it?]()
 
 ## Let's get coding!
 
