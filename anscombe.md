@@ -63,4 +63,4 @@ var data = [
  
  Alright, we've done a lot! What we have should look pretty similar now to the plot above. Unfortunately, though, our chart isn't really better than what we get with the free tools. (Paste your data into [Chartbuilder](http://quartz.github.io/Chartbuilder/) and feel free to weep.) What makes D3 different is its ability to create **dynamic** visualizations and things that tools aren't designed to create.
 
-Later on, we can come back to this plot and make it interactive!
+See an interactive version of this chart [here](https://bl.ocks.org/molliemarie/f30308e1c28a3fbda8eda6c72cfa9fc7).
