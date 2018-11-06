@@ -1,10 +1,12 @@
-# Anscombe Quartet Scatter Plot - Part One
+# Anscombe Quartet Scatter Plot
 
 Now that we have had a chance to explore Anscombe's Quartet a bit, let's plot it out with D3! :D
 
 We'll make a fairly basic plot with no interactions to start that will end up looking something like this:
 
 <img src="imgs/anscombe1.png" width="500px;"/>
+
+Hopefully we'll have time to add interactions later.
 
 **Note:** Since Mike doesn't [technically](https://bl.ocks.org/mbostock/3887118) make valid HTML pages, we're not going to either — here's how we'll start our own empty HTML pages from here on out:
 
